@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "597532441037",
+    "firebase_url": "https://i-c-akira.firebaseio.com",
+    "project_id": "i-c-akira",
+    "storage_bucket": "i-c-akira.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597532441037:android:367b8051e659f41b67ec84",
+        "android_client_info": {
+          "package_name": "com.example.pog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597532441037-h29sggbr7e4j33t6vq9icohcpd4r1c3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pog",
+            "certificate_hash": "f2036d80d39fa2efd7fe5d3d58c197e100e522f4"
+          }
+        },
+        {
+          "client_id": "597532441037-31vg1hh31b5k91cih9ftko5o0qafi9k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJMbXwpR5YpTTOMLYxTiO2_bKrRsy840"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597532441037-31vg1hh31b5k91cih9ftko5o0qafi9k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
